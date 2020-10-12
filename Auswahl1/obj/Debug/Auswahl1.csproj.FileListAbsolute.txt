@@ -1,0 +1,6 @@
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Auswahl1\Auswahl1\bin\Debug\Auswahl1.exe.config
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Auswahl1\Auswahl1\bin\Debug\Auswahl1.exe
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Auswahl1\Auswahl1\bin\Debug\Auswahl1.pdb
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Auswahl1\Auswahl1\obj\Debug\Auswahl1.csprojResolveAssemblyReference.cache
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Auswahl1\Auswahl1\obj\Debug\Auswahl1.exe
+c:\users\wehner_tobias\documents\visual studio 2015\Projects\Auswahl1\Auswahl1\obj\Debug\Auswahl1.pdb
